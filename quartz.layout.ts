@@ -8,7 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/eighteeneightythree/docs",
+      Archive: "https://louisnel.co.nz",
+      "View on GitHub": "https://github.com/eighteeneightythree/docs",
     },
   }),
 }
@@ -25,8 +26,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    //Component.Explorer(),
     Component.Darkmode(),
+    Component.DesktopOnly(Component.LeftFooter({
+      links: {
+        Index: "/tags",
+        Archive: "https://louisnel.co.nz/archive",
+      },
+    })),
+    //Component.Explorer(),
   ],
   right: [
     //Component.Graph(),
@@ -44,6 +51,12 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     //Component.Explorer(),
+    Component.DesktopOnly(Component.LeftFooter({
+      links: {
+        Index: "/tags",
+        Archive: "https://louisnel.co.nz/archive",
+      },
+    })),
   ],
   right: [],
 }

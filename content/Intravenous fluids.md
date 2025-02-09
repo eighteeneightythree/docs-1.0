@@ -84,4 +84,4 @@ Prothrombinex is lyophilised human clotting factor concentrate prepared by adsor
 The only routine indication is reversal of warfarin. It does not, in fact, reverse warfarin; it merely replaces the inactive factors.
 
 --- 
-#cluster/medicine 
+#medicine  

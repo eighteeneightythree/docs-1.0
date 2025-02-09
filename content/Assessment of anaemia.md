@@ -10,4 +10,4 @@ a# Required tests
 ![[assessmentOfAnaemiaElk.svg]]
 
 --- 
-#cluster/medicine
+#medicine 

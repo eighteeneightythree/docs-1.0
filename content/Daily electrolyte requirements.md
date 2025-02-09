@@ -19,4 +19,4 @@ Normal saline, and the other common crystalloids, are made up with sodium chlori
 | D4/5NS1/5       | 31mmol            | 31mmol              | 222mmol = 40g      |
 
 --- 
-#cluster/medicine 
+#medicine  

@@ -73,6 +73,9 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
 
             const socialImage = coalesceAliases(data, ["socialImage", "image", "cover"])
 
+            const source = coerceToArray(coalesceAliases(data, ["source"]))
+            if (source) data.source = source
+
             const created = coalesceAliases(data, ["created", "date"])
             if (created) data.created = created
             const modified = coalesceAliases(data, [
@@ -101,19 +104,20 @@ declare module "vfile" {
     frontmatter: { [key: string]: unknown } & {
       title: string
     } & Partial<{
-        tags: string[]
-        aliases: string[]
-        modified: string
-        created: string
-        published: string
-        description: string
-        publish: boolean | string
-        draft: boolean | string
-        lang: string
-        enableToc: string
-        cssclasses: string[]
-        socialImage: string
-        comments: boolean | string
-      }>
+      tags: string[]
+      aliases: string[]
+      modified: string
+      created: string
+      published: string
+      source: string
+      description: string
+      publish: boolean | string
+      draft: boolean | string
+      lang: string
+      enableToc: string
+      cssclasses: string[]
+      socialImage: string
+      comments: boolean | string
+    }>
   }
 }

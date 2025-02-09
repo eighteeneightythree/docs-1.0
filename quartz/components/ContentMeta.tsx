@@ -12,11 +12,13 @@ interface ContentMetaOptions {
    */
   showReadingTime: boolean
   showComma: boolean
+  showSource: boolean
 }
 
 const defaultOptions: ContentMetaOptions = {
   showReadingTime: false,
   showComma: false,
+  showSource: true,
 }
 
 export default ((opts?: Partial<ContentMetaOptions>) => {
@@ -28,6 +30,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
     if (text) {
       const segments: (string | JSX.Element)[] = []
+      const segmentsSource: (string | JSX.Element)[] = []
 
       if (fileData.dates) {
         segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
@@ -42,11 +45,24 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(<span>{displayedTime}</span>)
       }
 
+      // Display source if enabled
+      if (options.showSource) {
+        const source = fileData.frontmatter?.source
+        if (source != null) {
+          const displayedSourceLink = <a href={source}>{source}</a>
+          segmentsSource.push(<span> Source: {displayedSourceLink}</span>)
+        }
+      }
+
       return (
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
           {segments}
-        </p>
+          <br />
+          {segmentsSource}
+        </p >
       )
+
+
     } else {
       return null
     }

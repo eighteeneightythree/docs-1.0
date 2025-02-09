@@ -35,4 +35,4 @@ Days 5 to 28: 120 to 150 ml/kg/day.
 ![[intravenous_fluid_algorithm_adults_NICE.png]]
 
 --- 
-#cluster/medicine 
+#medicine  

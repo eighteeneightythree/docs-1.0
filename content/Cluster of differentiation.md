@@ -14,4 +14,4 @@ Physiologically, most CD molecules act as receptors (or ligands), and initiate a
 | Cytotoxic T lymphocyte | CD8+, CD45+, CD3+,                     |
 
 --- 
-#cluster/medicine 
+#medicine 

@@ -9,4 +9,4 @@
 ![[assessmentOfHyponatraemia.svg]]
 
 --- 
-#cluster/medicine
+#medicine 

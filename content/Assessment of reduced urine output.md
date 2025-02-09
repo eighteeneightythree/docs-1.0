@@ -28,5 +28,5 @@ The normal urine output is approximately 1mL/kg/h, which puts the average normal
 - [[Hyperkalaemia]]
 
 ---
-#cluster/medicine 
+#medicine  
  

@@ -23,4 +23,4 @@ Reason tells us the fastest **[[Intravenous infusion rates|infusion time]]** is 
 
   
 --- 
-#cluster/medicine 
+#medicine  

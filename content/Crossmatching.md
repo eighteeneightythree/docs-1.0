@@ -13,4 +13,4 @@ An electronic crossmatch is an electronic alternative to immediate spin crossmat
 AHG crossmatch is a type of [[Antiglobulin test#indirect antiglobulin test|indirect antiglobulin test]] It is done in patients when an IS crossmatch is not appropriate or when a "full crossmatch" is required.
 
 ---
-#cluster/medicine 
+#medicine  

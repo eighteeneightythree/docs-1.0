@@ -2,8 +2,9 @@
 - [[Renal function test|Serum sodium]] 
 - [[Serum osmolality]]
 
-### Consider:
+## Consider:
 - Urine osmolality
+- Urine sodium
 
 --- 
 ![[assessmentOfHyponatraemia.svg]]

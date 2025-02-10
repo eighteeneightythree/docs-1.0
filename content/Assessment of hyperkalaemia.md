@@ -3,7 +3,7 @@
 - [[Renal function test]]
 - [[ECG]]
 
-# Consider:
+## Consider:
 - [[Blood gas]] for rapid confirmation of serum potassium concentration
 
 ---

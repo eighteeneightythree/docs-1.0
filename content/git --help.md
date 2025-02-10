@@ -19,3 +19,6 @@ Checkout a branch of a repository
 `git chechout`: Checkout the default branch
 `git checkout foo`: Checkout the 'foo' branch
 
+# git remote add \<name> \<PATH>
+
+# git remote set-url \<name> \<new PATH>

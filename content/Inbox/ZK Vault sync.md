@@ -28,4 +28,10 @@ borg create ~/The\ Cellar/quartz-borg::init /Users/louisnel/Library/Mobile\ Docu
   git fetch origin
   git branch -u origin/deployment deployment
   git remote set-head origin -a
-  
+
+replace content with symlink
+```bash
+rm -r content && ln -s /Users/louisnel/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/ZK\ Vault content
+```
+
+test2

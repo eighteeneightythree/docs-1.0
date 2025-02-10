@@ -29,7 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.LeftFooter({
       links: {
-        Index: "/tags",
+        "Tag Index": "/tags",
         Archive: "https://louisnel.co.nz/archive",
       },
     })),
@@ -53,7 +53,7 @@ export const defaultListPageLayout: PageLayout = {
     //Component.Explorer(),
     Component.DesktopOnly(Component.LeftFooter({
       links: {
-        Index: "/tags",
+        "Tag Index": "/tags",
         Archive: "https://louisnel.co.nz/archive",
       },
     })),

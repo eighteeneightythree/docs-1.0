@@ -1,11 +1,13 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
 // put your custom CSS here!
 
 .left {
     display: grid !important;
+    gap: 1.5rem !important;
+    grid-template-columns: 1fr;
     grid-template-rows: min-content min-content min-content min-content;
-    align-items: center;
 
     .page-title {
         grid-area: 1 / 1 / 2 / 3;
@@ -17,18 +19,30 @@
 
     .darkmode {
         grid-area: 2 / 2 / 3 / 3;
+        align-self: center;
     }
-}
 
-.content-meta {
-    & a {
-        color: var(--gray);
+    .recent-notes {
+        grid-area: 3 /1 /3/3;
+    }
+
+    .leftFooter {
+        grid-area: 4/1/4/3;
+    }
+
+    @media all and ($mobile) {
+        display: flex !important;
+    }
+
+    @media all and ($desktop) {
+        .explorer {
+            display: none;
+        }
     }
 }
 
 .leftFooter {
     text-align: left;
-    margin-bottom: 4rem;
     opacity: 0.7;
 
     & p {
@@ -43,5 +57,16 @@
         flex-direction: column;
         gap: 0.5rem;
         margin-top: -1rem;
+    }
+}
+
+.page article>h1 {
+    font-size: 1.75rem;
+}
+
+/* Clipping source link style*/
+.content-meta {
+    & a {
+        color: var(--gray);
     }
 }

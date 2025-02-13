@@ -27,13 +27,20 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.LeftFooter({
-      links: {
-        "Tag Index": "/tags",
-        Archive: "https://louisnel.co.nz/archive",
-      },
-    })),
-    //Component.Explorer(),
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        showTags: false,
+      })
+    ),
+    Component.DesktopOnly(
+      Component.LeftFooter({
+        links: {
+          //"Tag Index": "/tags",
+          //Archive: "https://louisnel.co.nz/archive",
+        },
+      })
+    ),
+    Component.Explorer()
   ],
   right: [
     //Component.Graph(),

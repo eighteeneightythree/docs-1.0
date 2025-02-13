@@ -41,6 +41,8 @@ export default ((userOpts?: Partial<Options>) => {
         <ul class="recent-ul">
           {pages.slice(0, opts.limit).map((page) => {
             const title = page.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title
+            //Tuncate title if longer than 30 charachters
+            const truncatedTitle = title.length > 45 ? title.slice(0, 45) + "…" : title;
             const tags = page.frontmatter?.tags ?? []
 
             return (
@@ -49,7 +51,7 @@ export default ((userOpts?: Partial<Options>) => {
                   <div class="desc">
                     <h3>
                       <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
-                        {title}
+                        {truncatedTitle}
                       </a>
                     </h3>
                   </div>

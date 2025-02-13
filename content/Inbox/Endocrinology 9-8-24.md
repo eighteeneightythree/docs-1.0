@@ -4,7 +4,9 @@
 
 (Gigantism)
 
-Acromegaly - IGF1 raised
+Acromegaly, GH excess - IGF1 raised
+Acromegaly may be caused by a pituitary adenoma secreting multiple hormones, [[?Acromegaly and hyperpigmentation]]
+
 
 Somatostatin (octreotide analogue) to reduce GH release.
 

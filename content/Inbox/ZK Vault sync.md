@@ -34,4 +34,9 @@ replace content with symlink
 rm -r content && ln -s /Users/louisnel/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/ZK\ Vault content
 ```
 
-test2
+
+
+--- 
+#inbox 
+
+*Age: `= round((date(now) - this.file.ctime).days)` days

@@ -4,21 +4,43 @@ Man page that might make more sense...
 git [--version] [--help] <command> [<args>]
 ```
 
-# git status	
+# `git status`
 Gives the working state of the current directory
 
-# git add
-Stages changes
+# `git add`
+Stages changes by adding the selected file or files from the working tree to the index.
 
 `git add .`: Stage all changes
 `git add <PATH>`: Stage specified directory or file
 
-# git checkout \[branch]
-Checkout a branch of a repository
+# `git rm`
+
+
+# `git checkout [branch]`
+Checks-out a branch of a repository
 
 `git chechout`: Checkout the default branch
 `git checkout foo`: Checkout the 'foo' branch
 
-# git remote add \<name> \<PATH>
+## `git sparse-checkout set dir1 dir2`
+Enables sparse-checkout including only the root files and specified directories
+## `git sparse-checkout disable`
+Disables sparse-checkout configuration
 
-# git remote set-url \<name> \<new PATH>
+
+# `git remote add <name> <PATH>`
+Adds a git remote.
+
+Use `file:///path/to/dir` to add a local directory as a remote.
+
+# `git remote set-url <name> <new PATH>`
+
+# `git branch`
+
+# `git fetch`
+
+
+# Links:
+
+---
+#medicine 

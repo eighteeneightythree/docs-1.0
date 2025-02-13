@@ -12,7 +12,7 @@ export default ((opts?: Options) => {
         return (
             <div class={`${displayClass ?? ""} leftFooter`}>
                 <p>
-                    Last sync to origin: <br /> {year}
+                    Last sync to Obsidian: <br /> {year}
                     <br /><br />
                 </p>
                 <ul>

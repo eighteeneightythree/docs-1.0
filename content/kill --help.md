@@ -5,7 +5,7 @@ kill [-s <command>] <PID>
 
 
 # Links:
-[[npx kill-port]]
+- [[npx kill-port]]
 
 ---
 #command-line 

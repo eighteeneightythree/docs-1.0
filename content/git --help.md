@@ -23,7 +23,7 @@ Checks-out a branch of a repository
 `git checkout foo`: Checkout the 'foo' branch
 
 ## `git sparse-checkout set dir1 dir2`
-Enables sparse-checkout including only the root files and specified directories
+Enables sparse-checkout including only the root files and specified directories. Cone mode is the default.
 ## `git sparse-checkout disable`
 Disables sparse-checkout configuration
 
@@ -41,6 +41,6 @@ Use `file:///path/to/dir` to add a local directory as a remote.
 
 
 # Links:
-
+- [[Distributed version control]]
 ---
-#medicine 
+#command-line 

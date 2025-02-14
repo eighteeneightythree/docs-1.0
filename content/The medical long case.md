@@ -33,10 +33,10 @@ The student should formulate and report a list of [[Problem list|differential di
 Attention should be paid to existing investigations and the ones that the student would like to order and what they expect to find. Remember that [[Only test if you already know the result|tests should be ordered only if they are likely to alter management]]. 
 
 ## Management plan
-The management plan should be based on all the latest [[Where to find guidlines|evidence and guidelines]] which you should have [[Keeping up to date with the medical literature|read extensively and understood completely]]... 
+The management plan should be based on all the latest [[Where to find guidelines|evidence and guidelines]] which you should have [[Keeping up to date with the medical literature|read extensively and understood completely]]... 
 
 
 # Links:
 
 ---
-#incomplete
+#medicine 

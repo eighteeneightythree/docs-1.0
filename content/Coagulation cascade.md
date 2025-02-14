@@ -6,6 +6,7 @@ The classical cascade is divided into three pathways: the intrinsic and extrinsi
 By Joe D - Own work, CC BY-SA 3.0, [Link](https://commons.wikimedia.org/w/index.php?curid=1983833)
 
 # Contact activation (intrinsic) pathway
+The contact pathway is so named because of its initiation by contact with glass. 
 
 # Tissue factor (extrinsic) pathway
 
@@ -17,6 +18,7 @@ By Joe D - Own work, CC BY-SA 3.0, [Link](https://commons.wikimedia.org/w/index.
 By Niels Olson - Own work, CC BY-SA 4.0, [Link](https://commons.wikimedia.org/w/index.php?curid=36434492)
 
 # Links:
+- [[The history of coagulation factor nomenclature]]
 
 ---
 #medicine #incomplete 

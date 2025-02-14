@@ -18,8 +18,8 @@ Detaches from the current screen.
 
 
 # Links:
-[[Job control (UNIX, bash)]]
-[[tmux]] is an alternative program
+- [[Job control (UNIX, bash)]]
+- [[tmux]] is an alternative program
 
 ---
 #command-line

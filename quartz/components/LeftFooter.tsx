@@ -7,7 +7,7 @@ interface Options {
 
 export default ((opts?: Options) => {
     const leftFooter: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
-        const year = new Date().toLocaleString()
+        const year = new Date().toLocaleString("en-GB")
         const links = opts?.links ?? []
         return (
             <div class={`${displayClass ?? ""} leftFooter`}>

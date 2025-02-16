@@ -1,3 +1,7 @@
+---
+created: 2025-02-05
+modified: 2025-02-09
+---
 A crossmatch is a general haematology test conducted to test recipient blood against potential blood products prior to administration. Strictly speaking, a crossmatch is the testing of red cells against serum; there are two types of crossmatch.
 
 **Major crossmatch** is the testing of recipient serum (or plasma) against a donor unit.

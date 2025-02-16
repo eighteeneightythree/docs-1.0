@@ -1,3 +1,7 @@
+---
+created: 2025-02-02
+modified: 2025-02-09
+---
 Take, for example, potassium for infusion. As stated below, it should be infused at a maximum rate of **10mmol/hr**.
 
 For a patient requiring potassium containing fluid, potassium concentration is usually the limiting factor on infusion rate. For example, a patient requiring potassium phosphate, as in the PSA practice question, is to be given potassium phosphate concentrate in 1L glucose 5% solution.

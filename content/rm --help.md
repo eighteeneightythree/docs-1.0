@@ -1,3 +1,7 @@
+---
+created: 2025-02-14
+modified: 2025-02-14
+---
 Remove files or directories
 ```bash
 rm [option] FILE

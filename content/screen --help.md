@@ -1,3 +1,7 @@
+---
+created: 2025-02-11
+modified: 2025-02-13
+---
 `screen` is a bash command that allows the user to multiplex the terminal between several processes. When a screen is detached, any processes inside it continue to run.
 
 ```bash

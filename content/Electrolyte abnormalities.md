@@ -1,6 +1,12 @@
+---
+created: 2025-02-03
+modified: 2025-02-16
+---
 # Common derangements:
-## [[Assessment of hyperkalaemia|Hyperkalaemia]]
-## [Hyponatraemia](Assesement%20of%20hyponatraemia.md)
+- [[Assessment of hyperkalaemia|Hyperkalaemia]]
+- [[Hyponatraemia]]
+- [[Hypercalcaemia]]
+- [[Hypophosphataemia]]
 
 --- 
 #medicine  #incomplete 

@@ -1,6 +1,8 @@
-> [!note] This workflow is not yet implemented.
-
-The ZK Vault is duplicated to `~/The Cellar/quartz/content` by an Automator workflow every time a new file is added.
+---
+created: 2025-02-08
+modified: 2025-02-15
+---
+`~/The Cellar/quartz/content` is symlinked to The ZK Vault .
 
 To sync with the GitHub repo run the following command:
 ```bash

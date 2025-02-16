@@ -1,12 +1,13 @@
 ---
-source: "https://jeongwhanchoi.medium.com/install-tmux-on-osx-and-basics-commands-for-beginners-be22520fd95e"
+source: https://jeongwhanchoi.medium.com/install-tmux-on-osx-and-basics-commands-for-beginners-be22520fd95e
 author:
   - "[[Jeongwhan Choi]]"
 published: 2018-09-14
 created: 2025-02-11
-description: "tmux is a Terminal MUltipleXer.. “Install tmux on OSX and Basics Commands for Beginners” is published by Jeongwhan Choi."
+description: tmux is a Terminal MUltipleXer.. “Install tmux on OSX and Basics Commands for Beginners” is published by Jeongwhan Choi.
 tags:
-  - "clippings"
+  - clippings
+modified: 2025-02-11
 ---
 ![](https://miro.medium.com/v2/resize:fit:1216/1*b7q2FCmYYdNsy41_gsybxA.png)
 

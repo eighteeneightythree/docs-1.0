@@ -1,3 +1,7 @@
+---
+created: 2025-02-13
+modified: 2025-02-13
+---
 [[Antimetabolites|Fludarabine]], [[Antimetabolites|cytarabine]], [[Filgrastim|granulocyte colony stimulating factor]], +/- [[Anthracyclines|idarubicin]] (FLAG+/-Ida) is a combination [[chemotherapy]] indicated for the treatment of relapsed or refractory acute myeloid leukaemia. It is also sometimes used as the first line treatment in non-favourable risk AML.
 
 FLAG chemotherapy regimens utilise the two antimetabolites fludarabine and ara-C (arabinofuranosyl cytidine, cytidine arabinoside), and G-CSF. Other agents may be added to this regimen.

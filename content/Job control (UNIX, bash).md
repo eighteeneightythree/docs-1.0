@@ -1,3 +1,7 @@
+---
+created: 2025-02-11
+modified: 2025-02-11
+---
 While a process is running, it may be killed or stopped by the user.
 `ctrl+c` will kill the process.
 `ctrl+z` will stop the process.

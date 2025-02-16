@@ -1,3 +1,7 @@
+---
+created: 2025-02-11
+modified: 2025-02-13
+---
 The site [docs.louisnel.co.nz](https://docs.louisnel.co.nz) is built on [Quartz]() v4. The source code is available [here]().
 
 # Configuration

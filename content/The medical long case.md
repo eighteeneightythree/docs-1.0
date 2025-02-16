@@ -1,3 +1,7 @@
+---
+created: 2025-02-10
+modified: 2025-02-14
+---
 A classical part of [[Medical education|medical education]], the long case is simply a discussion of a patient. The student must consult the patient, formulate a differential diagnosis, and decide on appropriate management.
 
 A typical long case is comprised of three parts. The student has 60 minutes for the consultation, 10 minutes to organise his thoughts, and 25 minutes (give or take) to discuss with his examiner.

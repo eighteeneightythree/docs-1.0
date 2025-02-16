@@ -1,3 +1,7 @@
+---
+created: 2025-02-14
+modified: 2025-02-14
+---
 A characteristic abnormality of leukocyte morphology, PHA is a congenital laminopathy that is most apparent in neutrophils and eosinophils. The cellular structure is also abnormal, with a course and lumpy cytoplasm.
 It was first described by in 1928 by Karel Pelger, and identified as an inherited disorder in 1931.
 

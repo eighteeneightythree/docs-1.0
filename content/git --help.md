@@ -1,3 +1,7 @@
+---
+created: 2025-02-10
+modified: 2025-02-14
+---
 Man page that might make more sense...
 
 ```bash

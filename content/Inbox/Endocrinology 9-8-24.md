@@ -1,3 +1,7 @@
+---
+created: 2024-08-09
+modified: 2025-02-10
+---
 # The Pituitary
 
 ## Growth hormone disorders:

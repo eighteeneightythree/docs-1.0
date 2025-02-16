@@ -1,3 +1,7 @@
+---
+created: 2025-02-02
+modified: 2025-02-09
+---
 | Abbreviation                  | Meaning          | Full latin                   |
 | ----------------------------- | ---------------- | ---------------------------- |
 | daily (OD/QD; ==DO NOT USE==) | Daily            | Omni die/Quaque die          |

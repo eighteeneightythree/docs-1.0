@@ -1,12 +1,13 @@
 ---
-source: "https://docs.obsidian.md/Reference/CSS+variables/CSS+variables"
+source: https://docs.obsidian.md/Reference/CSS+variables/CSS+variables
 author:
   - "[[Developer Documentation]]"
-published:
+published: 
 created: 2025-02-03
-description: "CSS variables - Developer Documentation"
+description: CSS variables - Developer Documentation
 tags:
-  - "clippings"
+  - clippings
+modified: 2025-02-03
 ---
 CSS variables
 

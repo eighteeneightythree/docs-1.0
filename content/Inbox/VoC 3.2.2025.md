@@ -1,3 +1,7 @@
+---
+created: 2025-02-03
+modified: 2025-02-06
+---
 # Abdominal pain
 
 ## Presentation of the acute abdomen

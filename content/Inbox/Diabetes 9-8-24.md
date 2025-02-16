@@ -1,3 +1,7 @@
+---
+created: 2023-05-01
+modified: 2025-02-06
+---
 Random glucose >11.1 in a symptomatic patient is diagnostic of DM.
 
 Fasted glucose 6-7 indicative of pre-diabetes

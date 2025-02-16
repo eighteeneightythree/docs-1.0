@@ -1,3 +1,7 @@
+---
+created: 2025-02-01
+modified: 2025-02-06
+---
 
 [[Touch bar customization|MTMR]] script tells System Events to set frontApp to app running in foreground
 

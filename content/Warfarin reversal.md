@@ -1,3 +1,7 @@
+---
+created: 2025-02-14
+modified: 2025-02-14
+---
 Generally supratherapeutic warfarin dosing in low risk patients without bleeding does not require active reversal. Warfarin should be withheld until the target INR is restored or ceased.
 
 Vitamin K should be considered for patients with excessively raised INR or in the groups discussed below in addition to replacement or the inactivated factors.

@@ -1,3 +1,7 @@
+---
+created: 2025-02-06
+modified: 2025-02-09
+---
 > [!caution] [[Hyperkalaemia]] is a potentially life threatening electrolyte disturbance and should be confirmed, investigated, and managed as soon as possible
 # Required tests:
 - [[Renal function test]]

@@ -1,3 +1,7 @@
+---
+created: 2025-02-01
+modified: 2025-02-09
+---
 ## Resuscitation (routine)
 **Adult (NICE)** - 500ml crystalloid over <15 minutes
 **Child (NICE)** - 10ml/kg crystalloid over <10 minutes

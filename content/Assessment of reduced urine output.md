@@ -1,3 +1,7 @@
+---
+created: 2025-02-06
+modified: 2025-02-09
+---
 The normal urine output is approximately 1mL/kg/h, which puts the average normal urine output around 70mL/h, or 1.7L/day. Theoretically, required urine output depends on the concentrating capacity of the kidney and the amount of free water to be excreted. Oliguria is defined as urine output of less than 0.5mL/kg/h. ^772316
 ## Classification of AKI by urine output
 - Stage I - <0.5mL/kg/h for 6-12 hours

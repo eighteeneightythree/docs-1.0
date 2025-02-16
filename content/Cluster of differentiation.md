@@ -1,3 +1,7 @@
+---
+created: 2025-02-04
+modified: 2025-02-09
+---
 Cluster of Differentiation is a naming protocol used for identification of cell surface molecules. It provides a framework for classification and research of [monoclonal antibodies](Monoclonal%20antibodies).
 
 Physiologically, most CD molecules act as receptors (or ligands), and initiate a signalling cascade, though some are responsible for cell adhesion and other processes.

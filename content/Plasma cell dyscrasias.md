@@ -1,3 +1,7 @@
+---
+created: 2025-02-14
+modified: 2025-02-14
+---
 A spectrum of monoclonal gammopathies due to clonal proliferation of a plasma cell line. They are collective know as plasma cell dyscrasia. One notable exception to the rule is non-secretory myeloma.
 
 # Monoclonal gammopathy of undetermined significance

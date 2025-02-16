@@ -1,3 +1,7 @@
+---
+created: 2025-02-01
+modified: 2025-02-14
+---
 Obstructive jaundice is characterised by yellow discolouration of the skin and scleræ due to hyperbilirubinaemia. Icterus is the technical tern for jaundice, which may be caused by other mechanisms.
 
 Obstruction of the biliary system leads to failure to clear bilirubin through the GIT (urobilinogen > stercobilinogen > stercobilin; some urobilinogen is reabsorbed and transported to the kidneys where it is converted to urobilin and excreted)

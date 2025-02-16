@@ -1,3 +1,7 @@
+---
+created: 2025-02-16
+modified: 2025-02-16
+---
 
 ```dataview
 TABLE WITHOUT ID file.link AS "Incomplete notes"

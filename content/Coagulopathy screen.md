@@ -1,20 +1,20 @@
 ---
 created: 2025-02-02
-modified: 2025-02-15
+modified: 2025-02-18
 ---
 # [[Coagulation studies]]
-PT
-APTT
-INR
-Fibrinogen
+- APTT
+- INR
+- Fibrinogen
 
-# Blood count
-Platelet count
-Platelet microscopy
-Platelet function
+# [[Full blood count]]
+- Platelet count
+## Also
+- Platelet microscopy
+- Platelet function tests
 
 # [[Renal function test]]
-Urea - Significant uricaemia impairs the coagulation cascade.
+- Urea: significant uricaemia impairs the [[coagulation cascade]].
 
 # Liver panel
 The liver synthesises most clotting factors.
@@ -23,6 +23,9 @@ Factor VIII is synthesised in significant amounts by endothelial cells. In coagu
   
 # Other testing
 ## vWF assays
+- Factor VIII levels (normal is 50-150%)
+- von Willbrand factor antigen (normal is between 50% and 200%)
+- von Willebrand activity (normal 50-200%, there are various assays which may or may not be clinically significant)
 
 ## ABO typing
 O group patients have ∼20% to 30% lower plasma vWF:Ag levels.

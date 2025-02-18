@@ -1,6 +1,6 @@
 ---
 created: 2025-02-01
-modified: 2025-02-09
+modified: 2025-02-17
 ---
 # Blood count
 Haemaglobin
@@ -10,7 +10,7 @@ Corpuscular haemaglobin
 Reticulocyte count
 # Lactate dehydrogenase
 # Liver panel
-Bilirubin
+Elevated bilirubin supports haemolysis. The hyperbilirubinaemia is conjugated
 
 # Haptoglobin
 # Direct Coombs/antiglobulin test
@@ -18,10 +18,6 @@ Bilirubin
 IgG positive - warm disease
 
 C3d positive - cold disease
-
-# Uric acid
-
-# [[Aspartame aminotransferase]] 
 
 
 --- 

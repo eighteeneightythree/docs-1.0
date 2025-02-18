@@ -1,6 +1,8 @@
 ---
 created: 2025-02-14
-modified: 2025-02-14
+modified: 2025-02-16
+tags:
+  - medicine
 ---
 A spectrum of monoclonal gammopathies due to clonal proliferation of a plasma cell line. They are collective know as plasma cell dyscrasia. One notable exception to the rule is non-secretory myeloma.
 
@@ -14,10 +16,8 @@ MGUS is characterised by minor marrow involvement with <10% of total nucleated c
 A clonal proliferation of plasma cells in bone or soft tissue. It typically presents with symptoms secondary to the growing mass. Its diagnosis requires a biopsy proven clonal plasmacyte population and absence of end organ involvement.
 
 # Multiple myeloma
-Myeloma proper is a malignant dyscrasia 
-
+![[Multiple myeloma#^502992]]
 
 # Links:
 
 ---
-#medicine 

@@ -1,6 +1,6 @@
 ---
 created: 2025-02-02
-modified: 2025-02-09
+modified: 2025-02-19
 ---
 # Crystalloid
 
@@ -25,7 +25,7 @@ CSL has an alkalinising effect due to the presence of lactate. Also due to its l
 
 Dex Saline is often the maintenance fluid of choice as it provides both electrolytes and free water, and better replaces obligatory fluid losses (both sensible and insensible). The addition of glucose may also help prevent catabolism in anorexic patients.
 
-> [!important] Optimal maintenance would be ‘four and a fifth’ with potassium infusion to cover the [daily potassium requirement](Daily%20electrolyte%20requirements) (1mmol/kg/day).
+> [!important] Optimal maintenance would be ‘four and a fifth’ with potassium to cover the [daily potassium requirement](Daily%20electrolyte%20requirements) (1mmol/kg/day).
 
 ## D5W Dextrose in Water
 

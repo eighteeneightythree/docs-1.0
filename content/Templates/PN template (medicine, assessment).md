@@ -1,6 +1,6 @@
 ---
 created: 2025-02-03
-modified: 2025-02-09
+modified: 2025-02-19
 ---
 # Required tests:
 
@@ -15,6 +15,7 @@ modified: 2025-02-09
 	"theme": "default",
 	"layout": "elk",
 	"htmlLabels": false
+	style [NODE] fill:#FFA503
 }
 ```
 

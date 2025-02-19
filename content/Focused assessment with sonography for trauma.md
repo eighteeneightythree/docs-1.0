@@ -23,11 +23,13 @@ The scan results are used in the following algorithm.
 This view is the easiest as the liver is a large acoustic window. Abdominal free fluid often collects here first, or in the [[Focused assessment with sonography for trauma#Pelvis|pelvis]]. Ensure the tip of the liver is visualised as free fluid there is often missed if the collection is small.
 
 ![[positive-FAST-RUQ.png]]
+
 Jyothi PSLS, Kalra VB - CC BY-NC-ND 4.0, [Link](http://doi.org/10.14260/jemds/637)
 
 # LUQ
 The spleen is much smaller than the liver and thus the RUQ acoustic window is small: this view is technically more difficult to obtain. Collections form between the spleen and diaphragm. The spenorenal interface is preserved by the splenorenal ligament.
 ![[positive-FAST-LUQ.png]]
+
 The star indicates clotted blood adherent to the spleen.
 Jackson H, et al. - CC BY 3.0, [Link](http://doi.org/10.1155/2014/454923)
 
@@ -37,6 +39,7 @@ A dependent collection in the pelvis will be visualised in the retrovesical pouc
 # Subcostal view
 The subcostal view can also be difficult to obtain. In the FAST scan, visualisation of the chambers of the heart is less important; the primary aim is assessment of the pericardial space.
 ![[positive-FAST-subcostal.png]]
+
 Note the obliteration of the right ventricle.
 Goodman A, et al. - CC-BY-SA 3.0 [Link](https://doi.org/10.4103/0974-2700.93118)
 
@@ -45,6 +48,7 @@ The opposition of pleural and aerated lung below it produces a characteristic im
 
 In the setting of pneumothorax, the M-mode image will become a "barcode sign". This view is less valuable in the identification of haemothorax or other intrapleural free fluid, they are probably better looked for at the diaphragm in the RUQ and LUQ views.
 ![[positive-eFAST-barcode-sign.png]]
+
 Right: M-mode, the abolition of lung sliding is visible as the "Barcode sign"
 Lichtenstein DA - CC-BY 3.0 [Link](https://doi.org/10.1186/2110-5820-4-1)
 

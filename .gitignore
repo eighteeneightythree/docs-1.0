@@ -12,6 +12,3 @@ replit.nix
 package-lock.json
 .vscode
 content/Templates/
-content/Archive/
-content/Inbox/
-content/Private/

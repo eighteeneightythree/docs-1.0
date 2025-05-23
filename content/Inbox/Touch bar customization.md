@@ -1,6 +1,6 @@
 ---
 created: 2025-02-01
-modified: 2025-02-16
+modified: 2025-02-22
 ---
 - [x] MTMR Safari back and forward
 - [x] MTMR Obsidian implementation

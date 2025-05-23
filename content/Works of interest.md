@@ -1,6 +1,6 @@
 ---
 created: 2025-02-16T00:00:00
-modified: 2025-03-07
+modified: 2025-04-12
 tags:
   - internet
 ---
@@ -11,6 +11,7 @@ Hereunder is a brief list of interesting material I have stumbled across while e
 - [nikiv.dev. My Filesystem.](https://wiki.nikiv.dev/unix/my-file-system)
 - [Chromatic. Chromatically.](https://publish.obsidian.md/chromatically/publish+homepage)
 - [Martin RA. Reasonable Deviations.](https://reasonabledeviations.com)
+- [Tynan. Tynan.](https://tynan.com)
 
 # Medicine
 - [Bull T. HemeBase.]((https://haembase.com/)

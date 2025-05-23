@@ -1,6 +1,8 @@
 ---
 created: 2025-02-14
-modified: 2025-02-18
+modified: 2025-04-04
+tags:
+  - medicine
 ---
 Factor VIII, or antihaemophilic factor (A), is plasma glycoprotein that circulates in a complex with von Willebrand factor. It is about 330kDa.
 
@@ -13,10 +15,6 @@ The normal FVIII concentration is said to be around 0.1-0.2μg/mL[^1]; the 100% 
 
 Liver transplantation has been noted to 'cure' haemophilia by restoring production of FVIII[^2].
 
-# Links:
-
----
-#medicine 
 
 [^1]: Green D. Chapter 3 - FVIII anatomy and physiology. In: Green D, editor. Hemophilia and von willebrand disease [Internet]. Academic Press; 2018. p. 33–47. Available from: [https://www.sciencedirect.com/science/article/pii/B9780128129548000035](https://www.sciencedirect.com/science/article/pii/B9780128129548000035)
 

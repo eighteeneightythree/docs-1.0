@@ -3,7 +3,7 @@ tags:
   - medicine
   - incomplete
 created: 2025-02-18
-modified: 2025-02-18
+modified: 2025-04-03
 ---
 A full blood count, or complete blood count is a test of the cellular components of whole blood; it reports on the erythrocytes, thrombocytes, and leukocytes.
 
@@ -37,6 +37,7 @@ The platelet count is always reported: it would even be part of a simple 3-cell 
 - Platelets - (150-400e9/L)
 
 # Further Reading:
+- [[Haematology reference ranges]]
 - Bain BJ, Bates I, Laffan MA, Lewis SM, editors. Dacie and Lewis practical haematology. Twelfth edition. Philadelphia: Elsevier; 2017.
 
 ---

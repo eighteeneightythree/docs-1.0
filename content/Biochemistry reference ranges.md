@@ -1,7 +1,7 @@
 ---
 tags:
   - medicine
-modified: 2025-03-10
+modified: 2025-03-31
 created: 2025-03-10
 ---
 Below are the CHL reference intervals for routine biochemistry.[^1]
@@ -62,7 +62,7 @@ Only the adult reference ranges are here (because the author has no interest in 
 # Osmolality  
    - 280 - 300 mmol/kg  
 # Phosphate  
-   - 0.8 - 1.5 mmol/L  
+   - 0.8 - 1.5 mmol/L   ^e95574
 # Potassium  
    - 3.5 - 5.2 mmol/L  
 # Sodium  

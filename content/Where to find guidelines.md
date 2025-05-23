@@ -1,6 +1,6 @@
 ---
 created: 2025-02-14
-modified: 2025-03-27
+modified: 2025-03-28
 ---
 Below is a *developing* collection of all the places I reach to when looking for management guidelines. Some are very detailed, some are easier to digest, and many are foreign; anaemia is the same in New Zealand and in Wales, but legionellosis is not...
 

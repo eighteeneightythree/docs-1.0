@@ -1,6 +1,6 @@
 ---
 created: 2025-02-15
-modified: 2025-03-13
+modified: 2025-04-02
 ---
 All of the topics I am or might be reading or writing about...
 
@@ -15,7 +15,7 @@ All of the topics I am or might be reading or writing about...
 - [ ] Now pages
 
 # Medicine
-- [ ]  Analgesia
+- [ ] Analgesia
 - [ ] Glycoprotein Ia/IIa and vWF ([[Platelet adhesion, activation, and aggregation#^fcae5e]])
 - [ ] Secondary haemostasis
 - [ ] International value assignement

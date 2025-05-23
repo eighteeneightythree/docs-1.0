@@ -4,7 +4,7 @@ tags:
   - incomplete
   - medicine
 created: 2025-02-20
-modified: 2025-02-20
+modified: 2025-02-22
 ---
 The RACE scan is an echocardiography protocol primarily used by the intensivist for the rapid assessment of cardiac function. There is an extended RACEplus protocol as well that provides more detailed information about cardiovascular and haemodynamic status. The staff at the Nippean institute for critical care education and research (NICCER) run excellent courses on the RACEplus scan.
 

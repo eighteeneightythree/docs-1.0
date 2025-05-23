@@ -3,7 +3,7 @@ tags:
   - scientific-methods
   - incomplete
 created: 2025-02-18
-modified: 2025-02-22
+modified: 2025-03-28
 ---
 The haematology analyser is a laboratory machine that performs automated cell counts on an aliquot from the EDTA tube.
 
@@ -34,4 +34,4 @@ Let us consider the “aperture”: it could be any shape or form. If it were a 
 # Further reading:
 - Sullivan E. Hematology Analyzer: From Workhorse to Thoroughbred. Lab Med. 2006 May;37(5):273–8.
 - Boule Diagnostics. Literature. [Link](https://boule.com/bouleacademy/literature/)
-- Beckman Coulter. Haematology Analyzers, Instruments and Systems [Link](https://www.beckmancoulter.com/en/products/hematology)
+- Beckman Coulter. Haematology Analyzers, Instruments and Systems. [Link](https://www.beckmancoulter.com/en/products/hematology)

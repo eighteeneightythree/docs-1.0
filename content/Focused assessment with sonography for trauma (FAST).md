@@ -4,7 +4,7 @@ tags:
   - incomplete
   - medicine
 created: 2025-02-19
-modified: 2025-02-20
+modified: 2025-02-22
 ---
 The FAST exam is a point of care ultrasound protocol indicated for the rapid assessment of trauma patients. Specifically it looks for free fluid (usually blood) in the abdomen and pericardial sac. An extended scan, eFAST, also includes intercostal views for assessment of the pleural space.
 There are no absolute contraindications to eFAST scanning, but it should not delay resuscitative efforts to a patient *in extremis*.

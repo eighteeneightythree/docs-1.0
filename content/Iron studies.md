@@ -3,11 +3,11 @@ tags:
   - medicine
   - haematology
 created: 2025-03-27
-modified: 2025-03-27
+modified: 2025-04-01
 ---
 The iron studies are a group of routine haematology tests that are used primarily in the investigation of anaemia but should also be ordered on suspicion of iron deficiency or perhaps some other [[Haemophagocytic lymphohistiocytosis|obscure disease(s)]]. The standard component tests run by [[The medical laboratory|Awanui labs]] include serum iron, ferritin, transferrin, and transferrin saturation.
 
-![[interpretationOfIronStudies.svg]]
+![[interpretationOfIronStudies.png]]
 
 # Serum iron
 Is a comparatively useless test, mostly on account of the confusion it causes.
@@ -35,10 +35,12 @@ Low transferrin is seen in iron overload and inflammatory states, as well as mal
 Maybe serum iron is not so useless after all because it is used to calculate the transferrin saturation. The below equation is also taken from [[The medical laboratory|Awanui labs]]:
 $T_{sat} = serum\ iron/(4.3/transferrin)$
 
-# Reference ranges
+# [[Haematology reference ranges|Reference ranges]]
 - Iron: 10-30μmol/L
-- Ferritin: generally >25μmol/L
+- Ferritin: generally 25-300μg/L
 - Transferrin: 2.0-3.2g/L (3.6 in young females)
 - Transferrin saturation: 16-45%
 
 # Further reading
+- A guide to interpretation of iron studies. Melbourne haematology; 2013 Jan. [Link](https://www.melbournehaematology.com.au/pdfs/guidelines/melbourne-haematology-guidelines-iron-studies.pdf)
+- Dacie and Lewis, as usual…

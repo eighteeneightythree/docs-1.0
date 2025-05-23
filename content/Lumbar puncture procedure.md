@@ -2,7 +2,7 @@
 tags:
   - medicine
 created: 2025-03-11
-modified: 2025-03-12
+modified: 2025-04-10
 ---
 ![[Lumbar puncture#^6e2cf6]]
 
@@ -25,7 +25,7 @@ A CT head should be completed prior to the procedure if there is any suspicion o
 # The puncture
 Unless the opening pressure is required, having the patient sitting and bent forward provides the best access to the anatomy.
 
-Palpate the iliac crests to find the intercristal line. Know that this line intersects with the body or endplate of the male L4 vertebral body and the female L5 vertebral body; for completeness, know that this is not alway accurate.
+Palpate the iliac crests to find the intercristal line. Know that this line intersects with the body or endplate of the male L4 vertebral body and the female L5 vertebral body; for completeness, know that this is not always accurate.
 
 The L4/5 space is the place. If it all goes to pot there, the L3/4 space is a suboptimal second choice. The author suggests this should be marked.
 

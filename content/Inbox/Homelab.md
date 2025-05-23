@@ -1,6 +1,6 @@
 ---
 created: 2025-03-09
-modified: 2025-03-13
+modified: 2025-04-07
 tags:
   - command-line
   - internet
@@ -10,3 +10,5 @@ tags:
 - Gitea for version control?
 - https://flamedfury.com/
 - https://nathan.woodburn.au/#
+- Document server
+- ?Taildrop

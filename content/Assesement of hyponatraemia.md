@@ -1,6 +1,8 @@
 ---
 created: 2025-02-01
-modified: 2025-02-10
+modified: 2025-10-07
+tags:
+  - medicine
 ---
 # Required tests
 - [[Renal function test|Serum sodium]] 
@@ -9,9 +11,6 @@ modified: 2025-02-10
 ## Consider:
 - Urine osmolality
 - Urine sodium
-
---- 
+ 
 ![[assessmentOfHyponatraemia.svg]]
 
---- 
-#medicine 

@@ -1,11 +1,11 @@
 ---
 created: 2025-02-26
-modified: 2025-02-27
+modified: 2025-07-21
 tags: medicine
 ---
 Anasarca is a severe global oedema caused by the accumulation of fluid in the interstitial space.
 
-It have varied aetiologies and can arise through several mechanisms that ultimately lead to a change in the [[Starling principle|Starling forces]]: the equation really only providing for alteration of the oncotic or hydrostatic gradients. The permeability coefficient could also change but this is not likely to be the problem.
+It have varied aetiologies and can arise through several mechanisms that ultimately lead to a change in the [[starling principle]]: the equation really only providing for alteration of the oncotic or hydrostatic gradients. The permeability coefficient could also change but this is not likely to be the problem.
 
 ![[Starling principle#^203f02]]
 
@@ -18,8 +18,8 @@ If the kidneys fail to excrete adequate volumes the consequent fluid overload ex
 ## Medications
 As with most conditions, the doctors potions may cause anasarca. Some suspects are:
 - Corticosteroids
-- Calcium-channel blockers
-- [[Nonsteroidal antiinflammatory drugs (NSAIDs)|NSAIDs]]
+- Calcium channel blockers
+- [[Nonsteroidal antiinflammatory drugs|NSAIDs]]
 # Oncotic pressure changes
 If the colloid osmotic-pressure gradient changes it will also produce a net fluid shift. The principle cause of this is hypoalbuminaemia, arising either from decreased synthesis or protein wasting. Any physiological or pathological state that leads to reduced plasma albumin concentrations would alter the oncotic gradient. 
 ## Liver failure

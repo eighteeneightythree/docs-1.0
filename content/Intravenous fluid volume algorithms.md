@@ -1,8 +1,8 @@
 ---
 created: 2025-02-01
-modified: 2025-02-09
+modified: 2025-08-31
 ---
-## Resuscitation (routine)
+# Resuscitation (routine)
 **Adult (NICE)** - 500ml crystalloid over <15 minutes
 **Child (NICE)** - 10ml/kg crystalloid over <10 minutes
 **Term Neonates (NICE)** - 10-20ml/kg crystalloid over <10 minutes
@@ -12,7 +12,7 @@ Fluid resusitation should be given as rapidly as possible through a cannula of a
 Time of passive infusion = flow(max)/volume
 
 Venous access for fluid resuscitation should be with the largest bore practical.
-## [[Intravenous fluids#==D4/5NS1/5 Dextrose in Normal Saline==|Maintenance]]
+# [[Intravenous fluids#==D4/5NS1/5 Dextrose in Normal Saline==|Maintenance]]
 
 **Adult (NICE):** 25-30ml/kg(lean body weight)/day
 

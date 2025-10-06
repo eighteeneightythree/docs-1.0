@@ -1,6 +1,6 @@
 ---
 created: 2025-02-13
-modified: 2025-02-17
+modified: 2025-10-07
 tags:
   - medicine
 ---
@@ -28,5 +28,3 @@ By Niels Olson - Own work, CC BY-SA 4.0, [Link](https://commons.wikimedia.org/w/
 
 # Links:
 - [[The history of coagulation factor nomenclature]]
-
----

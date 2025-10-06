@@ -1,6 +1,6 @@
 ---
 created: 2025-02-14
-modified: 2025-02-22
+modified: 2025-09-06
 tags:
   - haematology
   - medicine
@@ -13,6 +13,6 @@ It was first described by in 1928 by Karel Pelger, and identified as an inherite
 Peripheral blood film with two PHA neutrophils pictured, note their non-round appearance with bilobed "pince-nez" nuclei.
 Image by Guy Waterval - Own work, Apache License 2.0, [Link](https://commons.wikimedia.org/w/index.php?curid=54052432)
 
-# Psuedo-Pelger-Huët
-The anomaly may also be acquired and sometimes develops due to haematological dyscrasias such as [[Acute myeloid lukaemia|AML]], [[Chronic myeloid lukaemia|CML]] or [[Myelodysplastic syndrome|MDS]]. The congenital form does not usually cause thrombocytopenia or leukopenias so a combined presentation warrants further investigation for MDS.
+# Psuedo-Pelger-Huët (PPHA)
+The anomaly may also be acquired and sometimes develops due to haematological dyscrasias such as [[Acute myeloid lukaemia|AML]], [[Chronic myeloid lukaemia|CML]] or [[Myelodysplastic syndrome|MDS]]. The appearances are the same but PPHA is often seen in addition to leukaemic populations. The congenital form does not usually cause thrombocytopenia or leukopenias so a combined presentation warrants further investigation for MDS. 
 

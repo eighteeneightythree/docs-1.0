@@ -1,6 +1,6 @@
 ---
 created: 2025-03-27
-modified: 2025-04-04
+modified: 2025-07-20
 tags:
   - medicine
 ---
@@ -46,7 +46,7 @@ There are 6 of these. The four rules for compensation of acute or chronic respir
 | Respiratory alkalosis (↓ CO2) | ↓ 2   | ↓ 5     |     |
 The other two rules are for metabolic disturbances.
 ## Compensation of metabolic acidosis
-Winters formula spits about an expected CO2 value for respiratory compensation, ±2mmHg.
+Winters formula spits out an expected CO2 value for respiratory compensation, ±2mmHg.
 $PaCO_{2(expected)}=(1.5×HCO_{3})+8$
 
 ## Compensation of metabolic alkalosis

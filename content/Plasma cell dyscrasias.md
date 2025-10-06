@@ -1,6 +1,6 @@
 ---
 created: 2025-02-14
-modified: 2025-02-16
+modified: 2025-07-22
 tags:
   - medicine
 ---
@@ -18,6 +18,4 @@ A clonal proliferation of plasma cells in bone or soft tissue. It typically pres
 # Multiple myeloma
 ![[Multiple myeloma#^502992]]
 
-# Links:
-
----
+# Further reading:

@@ -1,8 +1,8 @@
 ---
 created: 2025-02-16
-modified: 2025-02-16
+modified: 2025-07-20
 ---
-Random-access memory is a form of computer memory that allows any of it data to be read or written in any order. 
+Random access memory (RAM) is a form of computer memory that allows any of it data to be read or written in any order. 
 
 Most modern RAM is SRAM or DRAM, both of which are volatile: the stored memory is lost when power is removed. Non-volatile memory exists in the form of ROM, and non-volatile RAM is in active development but not widely implemented.
 

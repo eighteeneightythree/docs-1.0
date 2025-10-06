@@ -1,7 +1,7 @@
 ---
 tags:
   - medicine
-modified: 2025-05-30
+modified: 2025-08-28
 created: 2025-05-30
 ---
 Psychotropic medications are widely used and need to be considered in an impatient setting primary in the case of potential interaction or withdrawal.
@@ -20,11 +20,11 @@ Lithium is distributed into the central nervous system later and the resultant t
 ## Interaction
 Lithium is not metabolised and is excreted unchanged in the urine. There are no significant pharmacokinetic interactions, and the only likely pharmacodynamic interaction is the precipitation of serotonin syndrome.  
 
-Any other medication that may impact on renal clearance such as NSAIDs, diuretics and RAAS modulators may increase the serum concentrations and cause toxicity. Lithium wasting by any cause may cause a sharp decline in serum concentration and lead to psychiatric decompensation.
+Any other medication that may impact on renal clearance such as NSAIDs, diuretics and RAAS modulators may increase the serum concentrations and cause toxicity. Lithium wasting by any cause may result in a sharp decline in serum concentration and lead to psychiatric decompensation.
 
 # On clozapine
 Another fantastic drug, this time new-age, but with the same shroud of nervousness. It carries a risk of myeloid failure (neutropenia or agranulocytosis) which, while uncommon (about 1%), is significantly dangerous to warrant concern.
-> [!info] While the risk of granulocytopenias falls significantly after the first year, the rick of constipation does not.
+> [!info] While the risk of granulocytopenias falls significantly after the first year, the risk of constipation does not.
 ## Other side effects:
 - Constipation
 - Sedation

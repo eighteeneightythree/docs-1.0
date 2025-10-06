@@ -1,6 +1,6 @@
 ---
 created: 2025-02-14
-modified: 2025-02-16
+modified: 2025-07-22
 ---
 > [!caution] Hyperkalaemia is a potentially life threatening electrolyte disturbance and should be confirmed, investigated, and managed as soon as possible
 
@@ -14,7 +14,6 @@ There are many. Here are some.
 - Renal failure
 - Acidosis
 - Medications (spironolactone, ACE inhibitors)
-- 
 # Links:
 
 ---

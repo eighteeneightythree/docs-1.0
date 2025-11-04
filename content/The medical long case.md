@@ -1,6 +1,6 @@
 ---
 created: 2025-02-10
-modified: 2025-02-14
+modified: 2025-10-07
 ---
 A classical part of [[Medical education|medical education]], the long case is simply a discussion of a patient. The student must consult the patient, formulate a differential diagnosis, and decide on appropriate management.
 
@@ -9,7 +9,7 @@ A typical long case is comprised of three parts. The student has 60 minutes for 
 # Opening remarks
 I once had a registrar who interrupted every patient presentation with "Stop. Think about it..." before making me restart. The opening remarks are stereotypical of a patient presentation, but one or two sentiences should distil the vital information enough for the listener to understand your assessment.
 
-> [!none] "I reviewed Mr AB, a 64 year old insulin dependent-diabetic amputee with a background of congestive heart disease and a new diagnosis of end stage kidney disease for which he will require dialysis..."
+> [!none] "I reviewed Mr AB, a 64 year old insulin-dependent (type two) diabetic amputee with a background of congestive heart disease and a new diagnosis of end stage kidney disease for which he will require dialysis..."
 
 # Medical history
 A full [[The medical history|medical history]] should be taken, with care to establish the chronology and progress of the current presenting complaint. Other conditions should be investigated as well, and their management inquired into.

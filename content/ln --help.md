@@ -1,6 +1,6 @@
 ---
 created: 2025-02-10
-modified: 2025-02-13
+modified: 2025-10-23
 ---
 Another man page.
 
@@ -18,4 +18,4 @@ Generates a symlink
 # Links:
 
 ---
-#command-line 
+#cli 

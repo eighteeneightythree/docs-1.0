@@ -1,6 +1,8 @@
 ---
 created: 2025-02-04
-modified: 2025-02-09
+modified: 2025-10-22
+tags:
+  - medicine
 ---
 Cluster of Differentiation is a naming protocol used for identification of cell surface molecules. It provides a framework for classification and research of [monoclonal antibodies](Monoclonal%20antibodies).
 
@@ -16,6 +18,3 @@ Physiologically, most CD molecules act as receptors (or ligands), and initiate a
 | T lymphocyte           | CD45+, CD3+                            |
 | T regulatory cell      | CD4, CD25                              |
 | Cytotoxic T lymphocyte | CD8+, CD45+, CD3+,                     |
-
---- 
-#medicine 

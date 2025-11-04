@@ -1,6 +1,8 @@
 ---
 created: 2025-02-10
-modified: 2025-02-14
+modified: 2025-10-23
+tags:
+  - cli
 ---
 Man page that might make more sense...
 
@@ -46,5 +48,3 @@ Use `file:///path/to/dir` to add a local directory as a remote.
 
 # Links:
 - [[Distributed version control]]
----
-#command-line 

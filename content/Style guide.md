@@ -2,7 +2,7 @@
 tags:
   - quartz
 created: 2025-02-17
-modified: 2025-08-31
+modified: 2025-10-22
 ---
 A style guide is a set of guidelines maintained by an editor on the way that material should be formatted for publication.
 
@@ -26,14 +26,15 @@ Where practical, formats incompatible with standard markdown such as sub- or sup
 - Exponents included in text shall be represented with E notation where they are part of scientific notation.
 - If equations are included they shall be in the LaTeX format.
 - Compound adjectives may be hyphenated or concatenated, in the case of the latter a dieresis shall be used. (This style appears to be inconsistent in scientific documentation and the author is still on the fence.)
+- The letter ash (Æ), and the letter ethel (Œ), should be avoided, however, all latin origin words containing "ae", and greek origin words containing "oe" should be rended with both letters.
 # On the formatting of graphics
 Images or flowcharts (generated with mermaid) will be embedded in their corresponding section of text. All embedded graphics shall be in the .png format or .svg format except for true images that require a different format (such as microscopy slides or clinical pictures including radiology or gross pathology).
-
 # The --help notes
-Brief reference notes on the use of shell commands include the bash command with angle brackets enclosing placeholder text, optional arguments and flag are enclosed in square brackets.
+Brief reference notes on the use of shell commands include the bash command with angle brackets enclosing placeholder text, optional arguments and flags are enclosed in square brackets.
+The best resource for command line help is simply `man <command>`, or somewhere like [ss64](https://ss64.com/).
 # On referencing
 Where references are given they should be in Vancouver style and included in a footnote.
-The "further reading" section of many notes includes other reading material and does not need to be referenced in Vancouver style. It should, however, generally follow the format: Author. Title. Publisher; Date. Availability.
+The "further reading" section of many notes includes other reading material and does not need to be referenced in proper Vancouver style. It should, however, generally follow the format: Author. Title. Publisher; Date. Availability.
 
 ---
 

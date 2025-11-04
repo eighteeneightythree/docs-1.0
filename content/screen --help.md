@@ -1,6 +1,6 @@
 ---
 created: 2025-02-11
-modified: 2025-02-13
+modified: 2025-10-23
 ---
 `screen` is a bash command that allows the user to multiplex the terminal between several processes. When a screen is detached, any processes inside it continue to run.
 
@@ -26,4 +26,4 @@ Detaches from the current screen.
 - [[tmux]] is an alternative program
 
 ---
-#command-line
+#cli

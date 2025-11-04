@@ -2,10 +2,10 @@
 tags:
   - medicine
 created: 2025-03-13
-modified: 2025-03-13
+modified: 2025-10-07
 ---
 Death of any hospital patient requires formal certification and documentation, even if the patient dies in front of you.
-# Clinical confirmation of death
+# Clinical confirmation (verification) of death
 Observe for any sign of life for at least a minute. 
 Confirmation of death can be made on the basis of:
 - Absent central pulses.

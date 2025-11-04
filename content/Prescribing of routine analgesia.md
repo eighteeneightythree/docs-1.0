@@ -4,7 +4,7 @@ tags:
 modified: 2025-11-04
 created: 2025-08-06
 ---
-Routine analgesia is typically simple analgesia with the addition of opiate analgesia as required. Most analgesic regimens are built on the "pain ladder". The below are doses for standard immediate release formulation.
+Routine analgesia is typically simple analgesia with the addition of opiate analgesia as required. Most analgesic regimens are built on the "pain ladder". The below are doses for standard immediate release formulation[^1].
 
 # Simple analgesia
 ## Paracetamol
@@ -27,7 +27,7 @@ Opiate analgesia requires different dosing based on route.
 # Weak opioids
 
 ## Tramadol
-> [!none]- 50-100mg not more than *quaque 4 hora*, max ~400mg daily
+> [!none] 50-100mg not more than *quaque 4 hora*, max ~400mg daily
 
 ## Codeine
 >[!none]- 30-60mg *quaque 4 hora* as required, max 240mg in 24 hours
@@ -55,3 +55,5 @@ Opiate analgesia requires different dosing based on route.
 # Further reading
 - Schug SA, Palmer GM, Scott DA, Alcock M, Halliwell R, Mott J, editors. Acute pain management: scientific evidence. Fifth edition. Melbourne: Australian and New Zealand College of Anaesthetists; 2020.
 - New Zealand Formulary
+
+[^1]: Unless otherwise specified, doses are for oral administration.

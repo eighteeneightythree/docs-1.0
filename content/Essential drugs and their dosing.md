@@ -12,11 +12,11 @@ If you want to use a drug and the dose isn't here (or isn't immediately obvious)
 
 Most drugs will have a skeletal formula as well as an accompanying table. In the table:
 - **On** is the onset of action
-- **Off** is the authors small brained synthesis of things such as the duration of action and the half-life
+- **Off** is the author's small brained synthesis of things such as the duration of action and the half-life
 
 # Adrenaline
 
-Or as the Americans call it, epinephrine. It is an endogenous catecholamine that essentially induces a sympathetic response (so creatively referred to as a sympathomimetic). It does this mostly because when one squirts 1000 micrograms of the stuff into the bloodstream nature's carefully turned receptor affinities go out the window. Noradrenaline is more instrumental in regulating the sympathetic nervous system, but that is discussion to be had [[The relationship between adrenaline and noradrenaline|elsewhere]]
+Or as the Americans call it, epinephrine. It is an endogenous catecholamine that essentially induces a sympathetic response (and thus creatively referred to as a sympathomimetic). It does this mostly because when one squirts 1000 micrograms of the stuff into the bloodstream nature's carefully turned receptor affinities go out the window. Noradrenaline is more instrumental in regulating the sympathetic nervous system, but that is discussion to be had [[The relationship between adrenaline and noradrenaline|elsewhere]]
 
 > [!tldr] Dosing 
 > - 500mcg IM for anaphylaxis
@@ -36,7 +36,7 @@ Amiodarone is for some reason advertised as a class III antiarrythmic medication
 
 > [!tldr] Dosing 
 > - 300mg IV for ventricular tachycardia or fibrillation, after the 3rd shock
-> - Usually 200mg daily for the maintenance of antiarrythmic therapy>
+> - Usually 200mg daily for the maintenance of antiarrythmic therapy
 
 ![[Pasted image 20251111203318.png]]
 By Vaccinationist - Public Domain, [link](https://commons.wikimedia.org/w/index.php?curid=31014914)
@@ -45,7 +45,7 @@ Note the two iodine atoms, which are responsible for its poor collegiality with 
 
 It is also a vesicant, and in New Zealand the solution for injection comes in an ampule from Slovakia with a pH of about 4.0, it is declared incompatible with saline and all kinds of other things (DHEP and the plasticisers in PVC infusion sets).[^2] **If you infuse it, historical wisdom would have you do so with 5% dextrose**.
 
-While rare, its penchant to turn peoples' skin a blue-grey colour is fascinating. Unfortunately the mechanism of this escapes the author, but surely it related to  deposition of something or other in the skin. One might read somewhere about the Tyndall effect...
+While rare, its penchant to turn peoples' skin a blue-grey colour is fascinating. Unfortunately the mechanism of this escapes the author, but surely it is related to  deposition of something or other in the skin. One might read somewhere about the Tyndall effect...
 
 
 | On       | Off   | Metabolism        | Elimination |

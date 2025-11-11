@@ -2,13 +2,13 @@
 tags:
   - medicine
 created: 2025-11-10
-modified: 2025-11-10
+modified: 2025-11-11
 ---
 Blood glucose below 4.0mmol/L is generally considered hypoglycaemia. In a non-diabetic patient, symptoms are often not present until closer to 2.5mmol/L. In somebody unwell (or in diabetics or the frail), treatment is reasonable for levels that are truly at or below 4.0mmol/L; those with normal physiology can tolerate mild hypoglycaemia (provided the aetiology is benign and the situation is not going to get worse).
 
 # Symptoms
 
-Neuroglycopenia is generally the cause of a hypoglycaemic symptoms. In order of severity:
+Neuroglycopenia is generally the cause of the hypoglycaemic symptoms. In order of severity:
 - Coma
 - Seizure
 - Weakness
@@ -37,7 +37,7 @@ Reason would have you give 15-30g as well. The guidelines suggest 25g.
 
 # Other measures
 
-If you cant squirt sugar in the mouth and IV access is unavailable, 1mg of intramuscular glucagon is an alternative. Then make it so that IV access in available.
+If you can't squirt sugar in the mouth and IV access is unavailable, 1mg of intramuscular glucagon is an alternative. Then make it so that IV access in available.
 
 If you give D50 peripherally, keep an eye on the IV line. Maybe put in another.
 

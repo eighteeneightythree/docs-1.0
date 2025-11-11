@@ -2,7 +2,7 @@
 tags:
   - medicine
 created: 2025-03-13
-modified: 2025-10-07
+modified: 2025-11-10
 ---
 Death of any hospital patient requires formal certification and documentation, even if the patient dies in front of you.
 # Clinical confirmation (verification) of death
@@ -38,5 +38,5 @@ Unexplained or unexpected deaths usually require reporting to the coroner. See [
 Where a death is referred to the coroner, the scene is not really a crime scene but it should be treated as one. Nothing should be touched or removed; all lines and tubes should be clamped or capped and left in place; cordon off the area until it is released by police. 
 
 # Further reading:
-- Ardagh M, Smith R, Abernethy J. Death of an Adult. In: Hospital Health Pathways Waitaha | Canterbury. Christchurch: CDHB; 2020. [Link](https://canterbury.hospitalhealthpathways.org/41516.htm)
+- Hospital Health Pathways Waitaha | Canterbury.
 - Te Kāwanatange o Aotearoa New Zealand Government. Guidance on burial, cremation and death documents \[Internet]. Guidance on burial, cremation and death documents. \[date unknown] \[cited 2025 Mar 13]. [Link](https://www.tewhatuora.govt.nz/health-services-and-programmes/burial-and-cremation-act-1964)

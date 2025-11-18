@@ -1,7 +1,7 @@
 ---
 tags:
   - medicine
-modified: 2025-07-31
+modified: 2025-11-11
 created: 2025-07-31
 ---
 Miscarriage loosely refers to loss of pregnancy in the first half a pregnancy: before 20 weeks in New Zealand, after 20 weeks it is termed stillbirth.[^1] Miscarriage is very common; RANCOG reports the lifetime risk is in the region of 25%. The term spontaneous abortion is synonymous with miscarriage.
@@ -16,9 +16,11 @@ Refers to the partial loss of pregnancy tissue before 20 weeks gestation. It is 
 ## Complete miscarriage
 The passage of all pregnancy tissue is associated with bleeding and pain, often the products of conception are frankly visible. At the completion of the miscarriage, that is, when all tissue is expelled, the pain should rapidly subside, ongoing pain and bleeding my suggest incomplete miscarriage as above. The os is typically closed.
 
-# Treatment of miscarriage
-## Threatened miscarriage
+# Treatment of threatened miscarriage
+
 In patients with a history of miscarriage, vaginal progesterone (400mg, micronised) should be offered. If a foetal heartbeat is confirmed, progesterone should be continued until 16 weeks.
+
+# Treatment of miscarriage proper
 ## Conservative 
 Advise on the expected course and observe. Often the miscarriage will complete without medical intervention.
 ## Medical

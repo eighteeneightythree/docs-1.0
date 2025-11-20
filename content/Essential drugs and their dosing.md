@@ -17,7 +17,6 @@ Most drugs will have a skeletal formula as well as an accompanying table.  In th
 
 \[w] next to the heading is a **warning**: the drug may have serious of irreversible adverse effects, or requires some other flavour of caution.
 \[b] next to the heading indicates a specific brand.
-\[s] next to the heading indicates the drug comes as a salt.
 
 # Actrapid \[b]
 
@@ -73,7 +72,7 @@ Perhaps the most interesting thing about allopurinol is the enzyme that metaboli
 
 # Amiodarone
 
-Amiodarone is for some reason advertised as a class III antiarrythmic medication, but it is actually also a class I, II, and IV... It's use in cardiac arrest is not really supported by any evidence.[^1] 
+Amiodarone is for some reason advertised as a class III antiarrythmic medication, but it is actually also a class I, II, and IV... It's use in cardiac arrest is not really supported by any evidence.[^1] It comes as a besilate salt.
 
 > [!tldr] Dosing 
 > - 300mg IV for ventricular tachycardia or fibrillation, after the 3rd shock.
@@ -111,7 +110,7 @@ By Jü - Public Domain, [link](https://commons.wikimedia.org/w/index.php?curid=6
 | -------------------------------------- | ----------- | ----------------- | ----------- |
 | Hours (peak effect at 6-8 hours, oral) | About a day | Liver<br>*CYP3A4* | Urine       |
 
-# Bisoprolol \[s]
+# Bisoprolol
 
 Bisoprolol is a β-blocker that is highly β1-selective. It is used for the management of hypertension and as one of [[the four pillars of heart failure management]]. It comes as a salt of fumarate and has on oral bioavailability of about 90%.
 
@@ -127,7 +126,7 @@ By Fvasconcellos - Public Domain, [link](https://commons.wikimedia.org/w/index.p
 | ----------------- | ---------------- | --------------------------- | --------------------- |
 | A couple of hours | About half a day | Liver<br>*CYP2D6<br>CYP3A4* | Urine (50% unchanged) |
 
-# Doxazosin \[s]
+# Doxazosin
 
 Doxazosin is a competitive selective α1-blocker, its parent compound is quinazoline. It decreases total peripheral resistance by blocking the effects noradrenaline at the α1 receptor in vascular smooth muscle; the theory is that the same relaxation occurs in the anterior fibromuscular stroma of the prostate, treating BPH.
 
@@ -144,7 +143,7 @@ By Fvasconcellos - Public Domain, [link](https://commons.wikimedia.org/w/index.p
 | --------- | ----- | ----------------- | ----------- |
 | 1-2 hours | 1 day | Liver<br>*CYP3A4* | Faeces      |
 
-Doxazosin is typically presented as a mesylate salt, despite not usually being advertised as such. 
+Doxazosin is typically presented as a mesilate salt, despite not usually being advertised as such. 
 
 # Ertapenem
 
@@ -167,7 +166,7 @@ The carbapenems are a type of β-lactam antibiotic and exerts it bactericidal ef
 
 There is a potential risk of allergic reaction in patients with a history of sensitivity to other β-lactam antibiotics, caution is advised.
 
-# Gentamicin \[w]\[s]
+# Gentamicin \[w]
 
 Gentamicin is an [[aminoglycoside]] antibiotic used in the treatment of infection by aerobic gram negative organisms (and *staphylococcus spp.)*. It binds irreversibly to the 16S ribosomal RNA of the 30S (prokaryotic) ribosomal subunit, interfering with protein synthesis and leading to death of the organism. It is comes as a sulfate salt; it is not orally bioavailable.
 
@@ -195,7 +194,7 @@ Continuation of gentamicin therapy should be guided by antibiotic sensitivities,
 
 Neuromuscular blockade has been reported in cats receiving doses in excess of four times the standard human dosing.[^4] The manufacturers advise caution in patients with neuromuscular disorders or those undergoing anaesthesia with curare-like paralytic agents.
 
-# Naloxone \[s]
+# Naloxone
 
 It appears the only trade name in regular use is Narcan. Naloxone is a competitive multi opioid receptor antagonist (μ > ẟ > κ) used for the reversal of narcosis (usually to fix respiratory depression); its mechanism of action is poorly understood. It comes as a hydrochloride salt.
 
@@ -247,7 +246,7 @@ Regardless of whether or not spironolactone is biologically active, its half lif
 
 Your homework, dear reader, is to think up the skeletal diagram for 7α-thiomethylspironolactone, it it not much different of that of spironolactone above...
 
-# Tamsulosin \[s]
+# Tamsulosin
 
 This α-blocker has preference for the A (and D) subtype of the α1-receptor. It decreases the obstructive symptoms of BPH by causing smooth muscle relaxation in the anterior fibromuscular stroma of the prostate.
 

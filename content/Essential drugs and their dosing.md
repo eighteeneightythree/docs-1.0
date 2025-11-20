@@ -16,6 +16,7 @@ Most drugs will have a skeletal formula as well as an accompanying table.  In th
 - **Off** is the author's small brained synthesis of things such as the duration of action and the half-life
 
 \[w] next to the heading is a **warning**: the drug may have serious of irreversible adverse effects, or requires some other flavour of caution.
+
 \[b] next to the heading indicates a specific brand.
 
 # Actrapid \[b]
@@ -147,12 +148,12 @@ Doxazosin is typically presented as a mesilate salt, despite not usually being a
 
 # Ertapenem
 
-Ertapenem is a [[carbapenem]] antibiotic and probably a drug of last resort in New Zealand, infection disease would like to be involved in its prescription. Meropenem is used (slightly) more routinely. It comes as a sodium salt, in a lyophilised powder for injection.
+Ertapenem is a [[carbapenem]] antibiotic and probably a drug of last resort in New Zealand, infectious disease would like to be involved in its prescription. It comes as a sodium salt, in a [[lyophilised]] powder for injection. Meropenem is used (slightly) more routinely.
 
 For intramuscular administration, the New Zealand formulary advises reconstitution with 3.2mL of 1% lidocaine followed by immediate injection.
 
 > [!tldr] Dosing 
-> - 1g IV daily for severe infections, with a few Hail Marys
+> - 1g IV daily for severe infections (with a few Hail Marys).
 
 ![[Pasted image 20251120214019.png]]
 By Fvasconcellos - Public Domain, [link](https://commons.wikimedia.org/w/index.php?curid=1014547)
@@ -160,11 +161,11 @@ By Fvasconcellos - Public Domain, [link](https://commons.wikimedia.org/w/index.p
 
 | On      | Off           | Metabolism                            | Elimination |
 | ------- | ------------- | ------------------------------------- | ----------- |
-| 2 hours | Several hours | Liver<br>*CPY 450, multiple isoforms* | Urine       |
+| 2 hours | Several hours | Liver<br>*CYP 450, multiple isoforms* | Urine       |
 
-The carbapenems are a type of β-lactam antibiotic and exerts it bactericidal effect by interfering with bacterial cell wall synthesis. The β-lactam ring acetylates Ser62 residue of the penicillin binding proteins, a subtype of D-alanyl-D-alanine carboxypeptidase. This irreversible binding inhibits the enzymes ability to form the cell wall peptidoglycan.
+The carbapenems are a type of β-lactam antibiotic and exert their bactericidal effect by interfering with bacterial cell wall synthesis. The β-lactam ring acetylates the Ser62 residue of bacterial penicillin binding proteins, a subtype of D-alanyl-D-alanine carboxypeptidase. This irreversible binding inhibits the enzyme's ability to form the cell wall peptidoglycans.
 
-There is a potential risk of allergic reaction in patients with a history of sensitivity to other β-lactam antibiotics, caution is advised.
+There is a potential risk of allergic reaction in patients with a history of hypersensitivity to other β-lactam antibiotics, caution is advised.
 
 # Gentamicin \[w]
 

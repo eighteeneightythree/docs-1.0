@@ -2,7 +2,7 @@
 tags:
   - medicine
 created: 2025-03-13
-modified: 2025-11-10
+modified: 2025-11-19
 ---
 Death of any hospital patient requires formal certification and documentation, even if the patient dies in front of you.
 # Clinical confirmation (verification) of death
@@ -39,4 +39,4 @@ Where a death is referred to the coroner, the scene is not really a crime scene 
 
 # Further reading:
 - Hospital Health Pathways Waitaha | Canterbury.
-- Te Kāwanatange o Aotearoa New Zealand Government. Guidance on burial, cremation and death documents \[Internet]. Guidance on burial, cremation and death documents. \[date unknown] \[cited 2025 Mar 13]. [Link](https://www.tewhatuora.govt.nz/health-services-and-programmes/burial-and-cremation-act-1964)
+- Te Kāwanatanga o Aotearoa New Zealand Government. Guidance on burial, cremation and death documents \[Internet]. Guidance on burial, cremation and death documents. \[date unknown] \[cited 2025 Mar 13]. [Link](https://www.tewhatuora.govt.nz/health-services-and-programmes/burial-and-cremation-act-1964)

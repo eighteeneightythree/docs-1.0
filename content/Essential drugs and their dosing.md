@@ -2,11 +2,12 @@
 tags:
   - medicine
 created: 2025-11-11
-modified: 2025-11-18
+modified: 2025-11-20
 ---
 The World Health Organization keeps a list of essential medicines. It contains over 500 medicines and can be downloaded as a (74 page) PDF from the WHO website. There is also an [electronic version](https://list.essentialmeds.org/).
 
 # This list will not contain over 500 medicines...
+
 But it will have some of them, along with any interesting factoids.
 If you want to use a drug and the dose isn't here (or isn't immediately obvious) you should probably get into the room somebody that is more familiar with the drug. Referencing in this note is intentionally sparse as it would be lengthy and no more helpful than a selection of good textbooks.
 
@@ -14,8 +15,9 @@ Most drugs will have a skeletal formula as well as an accompanying table.  In th
 - **On** is the onset of action (not necessarily the time to appreciable serum concentrations)
 - **Off** is the author's small brained synthesis of things such as the duration of action and the half-life
 
+\[w] next to the heading is a **warning**: the drug may have serious of irreversible adverse effects, or requires some other flavour of caution.
 \[b] next to the heading indicates a specific brand.
-\[s] next to the heading indicates the drug comes as a salt
+\[s] next to the heading indicates the drug comes as a salt.
 
 # Actrapid \[b]
 
@@ -67,7 +69,7 @@ By Jü - Public Domain, [link](https://commons.wikimedia.org/w/index.php?curid=1
 | ---- | ----------- | --------------------------- | ----------- |
 | Days | About a day | Liver<br>*Aldehyde oxidase* | Urine       |
 
-Perhaps the most interesting thing about allopurinol is the enzyme that metabolises it; aldehyde oxidase requires molybdenum as a cofactor. It is a member of the flavoproteins family, using flavin adenine dinucleotide as another cofactor.
+Perhaps the most interesting thing about allopurinol is the enzyme that metabolises it; aldehyde oxidase requires molybdenum as a cofactor. It is a member of the flavoprotein family, using flavin adenine dinucleotide as another cofactor.
 
 # Amiodarone
 
@@ -125,6 +127,74 @@ By Fvasconcellos - Public Domain, [link](https://commons.wikimedia.org/w/index.p
 | ----------------- | ---------------- | --------------------------- | --------------------- |
 | A couple of hours | About half a day | Liver<br>*CYP2D6<br>CYP3A4* | Urine (50% unchanged) |
 
+# Doxazosin \[s]
+
+Doxazosin is a competitive selective α1-blocker, its parent compound is quinazoline. It decreases total peripheral resistance by blocking the effects noradrenaline at the α1 receptor in vascular smooth muscle; the theory is that the same relaxation occurs in the anterior fibromuscular stroma of the prostate, treating BPH.
+
+> [!tldr] Dosing 
+> - Initially 1mg PO daily for hypertension and BPH, usual maintenance 2-4mg.
+> - Max 16mg for hypertension, max 8mg for BPH.
+
+
+![[Pasted image 20251119095650.png]]
+By Fvasconcellos - Public Domain, [link](https://commons.wikimedia.org/w/index.php?curid=983160)
+
+
+| On        | Off   | Metabolism        | Elimination |
+| --------- | ----- | ----------------- | ----------- |
+| 1-2 hours | 1 day | Liver<br>*CYP3A4* | Faeces      |
+
+Doxazosin is typically presented as a mesylate salt, despite not usually being advertised as such. 
+
+# Ertapenem
+
+Ertapenem is a [[carbapenem]] antibiotic and probably a drug of last resort in New Zealand, infection disease would like to be involved in its prescription. Meropenem is used (slightly) more routinely. It comes as a sodium salt, in a lyophilised powder for injection.
+
+For intramuscular administration, the New Zealand formulary advises reconstitution with 3.2mL of 1% lidocaine followed by immediate injection.
+
+> [!tldr] Dosing 
+> - 1g IV daily for severe infections, with a few Hail Marys
+
+![[Pasted image 20251120214019.png]]
+By Fvasconcellos - Public Domain, [link](https://commons.wikimedia.org/w/index.php?curid=1014547)
+
+
+| On      | Off           | Metabolism                            | Elimination |
+| ------- | ------------- | ------------------------------------- | ----------- |
+| 2 hours | Several hours | Liver<br>*CPY 450, multiple isoforms* | Urine       |
+
+The carbapenems are a type of β-lactam antibiotic and exerts it bactericidal effect by interfering with bacterial cell wall synthesis. The β-lactam ring acetylates Ser62 residue of the penicillin binding proteins, a subtype of D-alanyl-D-alanine carboxypeptidase. This irreversible binding inhibits the enzymes ability to form the cell wall peptidoglycan.
+
+There is a potential risk of allergic reaction in patients with a history of sensitivity to other β-lactam antibiotics, caution is advised.
+
+# Gentamicin \[w]\[s]
+
+Gentamicin is an [[aminoglycoside]] antibiotic used in the treatment of infection by aerobic gram negative organisms (and *staphylococcus spp.)*. It binds irreversibly to the 16S ribosomal RNA of the 30S (prokaryotic) ribosomal subunit, interfering with protein synthesis and leading to death of the organism. It is comes as a sulfate salt; it is not orally bioavailable.
+
+> [!tldr] Dosing 
+> - Usually 5mg/kg(ideal body weight) IV daily, with serum levels at 30mins and 12hours after infusion.
+> 	- For patients with an eGFR ≤40: 3mg/kg(ideal body weight)
+> - 7mg/kg(ideal body weight) IV daily for severe sepsis, with serum levels at 30mins and 12hours after infusion.
+> 	- Ask infectious disease for help in patients with an eGFR ≥20.
+> - Involve the ward pharmacist for dose adjustment after commencing therapy.
+> 
+> *These dosing rules also apply to tobramicin.*
+
+![[Pasted image 20251119222918.png]]
+Gentamicin C2. 
+By NEUROtiker - Public Domain, [link](https://commons.wikimedia.org/w/index.php?curid=3528943)
+
+Gentamicin is actually a group of related compounds, there are three groups (A, B, and C); group C has the highest antibacterial activity. It is produced by some members of the genus *micromonospora*, particularly *M. purpurea* which the author can find little information about. It is said that this drug got its name because when cultured the bacterium by which gentamicin is produced exhibits a purple colour due to [[gentian violet]].[^5]
+
+
+| On             | Off           | Metabolism      | Elimination |
+| -------------- | ------------- | --------------- | ----------- |
+| An hour or two | Several hours | Not metabolised | Urine       |
+
+Continuation of gentamicin therapy should be guided by antibiotic sensitivities, as well as any exhibited nephrotoxicity or ototoxicity. The nephrotoxicity is usually reversible on withdrawal of the drug, however ototoxicity is more likely to be permanent.
+
+Neuromuscular blockade has been reported in cats receiving doses in excess of four times the standard human dosing.[^4] The manufacturers advise caution in patients with neuromuscular disorders or those undergoing anaesthesia with curare-like paralytic agents.
+
 # Naloxone \[s]
 
 It appears the only trade name in regular use is Narcan. Naloxone is a competitive multi opioid receptor antagonist (μ > ẟ > κ) used for the reversal of narcosis (usually to fix respiratory depression); its mechanism of action is poorly understood. It comes as a hydrochloride salt.
@@ -177,6 +247,22 @@ Regardless of whether or not spironolactone is biologically active, its half lif
 
 Your homework, dear reader, is to think up the skeletal diagram for 7α-thiomethylspironolactone, it it not much different of that of spironolactone above...
 
+# Tamsulosin \[s]
+
+This α-blocker has preference for the A (and D) subtype of the α1-receptor. It decreases the obstructive symptoms of BPH by causing smooth muscle relaxation in the anterior fibromuscular stroma of the prostate.
+
+> [!tldr] Dosing 
+> - 400mcg PO daily for the treatment of BPH.
+
+![[Pasted image 20251119220216.png]]
+
+
+| On    | Off       | Metabolism                       | Elimination |
+| ----- | --------- | -------------------------------- | ----------- |
+| Hours | >12 hours | Liver<br>*CYP3A4<br>also CYP2D6* | Urine       |
+
+In its pharmaceutical form, only the R(-) enantiomer is present; it comes as a hydrochloride salt. There is not *in vivo* conversion to the S(-) enantiomer which has less biological activity.
+
 # Warfarin
 
 The only 4-hydroxycoumarin in routine **medical** use (there are plenty others used as rodenticides), warfarin is an antagonist of vitamin K epoxide-reductase and ultimately prevents γ-carboxylation of the vitamin K dependent [[The history of coagulation factor nomenclature|coagulation factors]].
@@ -193,7 +279,7 @@ By Calvero - Public Domain, [link](https://commons.wikimedia.org/w/index.php?cur
 | ---- | --------- | -------------------------------------- | ----------- |
 | Days | Also days | Liver<br>*CYP1A2 <br>CYP3A4<br>CYP2C9* | Urine       |
 
-The name warfarin is derived from Wisconsin Alumni Research Foundation who presumably funded the research at Wisconsin University about a decade after Frank Schofield, who is better know for being a Korean independence activist, discovered that a bovine haemorrhagic sickness was a result of the cows eating mouldy sweet clover.[^3] The suffixed -arin refers to coumarin, the compound metabolised to dicoumarol by whatever microorganism spoiled the sweet clover. back in the 1920s.
+The name warfarin is derived from Wisconsin Alumni Research Foundation who presumably funded the research at Wisconsin University about a decade after Frank Schofield, better know for being a Korean independence activist, discovered that a bovine haemorrhagic sickness was a result of the cows eating mouldy sweet clover.[^3] The suffixed -arin refers to coumarin, the compound metabolised to dicoumarol by whatever microorganism spoiled the sweet clover back in the 1920s.
 
 
 
@@ -206,3 +292,7 @@ The name warfarin is derived from Wisconsin Alumni Research Foundation who presu
 [^2]: Sponsor: Max Health Limited. Cordarone X Data Sheet [Internet]. Medsafe; [cited 2025 Nov 11]. Available from: [https://www.medsafe.govt.nz/profs/datasheet/a/amiodaroneinj.pdf](https://www.medsafe.govt.nz/profs/datasheet/a/amiodaroneinj.pdf)
 
 [^3]: Schofield FW. A Brief Account of a Disease in Cattle Simulating Hemorrhagic Septicaemia due to Feeding Sweet Clover. Can Vet J. 1984 Dec;25(12):453–5.
+
+[^4]: Sponsor: Pfizer New Zealand Limited. DBL(TM) Gentamicin Injection BP Datasheet [Internet]. Medsafe; 2022 [cited 2025 Nov 20]. Available from: [https://www.medsafe.govt.nz/profs/datasheet/d/DBLGentamicinBPinj.pdf](https://www.medsafe.govt.nz/profs/datasheet/d/DBLGentamicinBPinj.pdf)
+
+[^5]: citation needed

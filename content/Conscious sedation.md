@@ -2,12 +2,13 @@
 tags:
   - medicine
   - procedures
-modified: 2025-06-27
+modified: 2026-02-11
 created: 2025-06-27
 ---
 Used as procedural sedation, these methods are used to sedate a patient in order to undertake procedure that would otherwise not be tolerated on account of pain or other discompliance.
 
 # Agents
+
 Agents with a rapid on- and offset are preferable as they provide sedation adequate for the conduction of the procedure without a significant lasting effect.
 ## Anxiolytics
 Midazolam is the classical medication. Theoretically, other benzodiazepines could be used but their characteristics are not as suitable. It provides anxiolysis and sedation, and often induces amnesia as well. 

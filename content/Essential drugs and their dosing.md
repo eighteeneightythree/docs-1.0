@@ -2,7 +2,7 @@
 tags:
   - medicine
 created: 2025-11-11
-modified: 2025-11-20
+modified: 2026-01-15
 ---
 The World Health Organization keeps a list of essential medicines. It contains over 500 medicines and can be downloaded as a (74 page) PDF from the WHO website. There is also an [electronic version](https://list.essentialmeds.org/).
 
@@ -15,7 +15,7 @@ Most drugs will have a skeletal formula as well as an accompanying table.  In th
 - **On** is the onset of action (not necessarily the time to appreciable serum concentrations)
 - **Off** is the author's small brained synthesis of things such as the duration of action and the half-life
 
-\[w] next to the heading is a **warning**: the drug may have serious of irreversible adverse effects, or requires some other flavour of caution.
+\[w] next to the heading is a **warning**: the drug may have serious of irreversible adverse effects, or it requires some other flavour of caution.
 
 \[b] next to the heading indicates a specific brand.
 
@@ -195,6 +195,20 @@ Continuation of gentamicin therapy should be guided by antibiotic sensitivities,
 
 Neuromuscular blockade has been reported in cats receiving doses in excess of four times the standard human dosing.[^4] The manufacturers advise caution in patients with neuromuscular disorders or those undergoing anaesthesia with curare-like paralytic agents.
 
+# Lidocaine
+
+> [!tldr] Dosing 
+> - Dose1
+
+![[Pasted image 20251124224145.png]]
+By Harbin - Public Domain, [link](https://commons.wikimedia.org/w/index.php?curid=671844)
+
+
+| On                                                   | Off     | Metabolism | Elimination |
+| ---------------------------------------------------- | ------- | ---------- | ----------- |
+| Up to 30 mins<br>*Usually 5-10 mins for field block* | 2 hours |            |             |
+
+
 # Naloxone
 
 It appears the only trade name in regular use is Narcan. Naloxone is a competitive multi opioid receptor antagonist (μ > ẟ > κ) used for the reversal of narcosis (usually to fix respiratory depression); its mechanism of action is poorly understood. It comes as a hydrochloride salt.
@@ -286,6 +300,7 @@ The name warfarin is derived from Wisconsin Alumni Research Foundation who presu
 # Further reading
 
 - [[Prescribing of routine analgesia]]
+- MIMS, the formulary, or a textbook...
 
 [^1]: Yartsev A. Amiodarone | Deranged Physiology [Internet]. [cited 2025 Nov 11]. Available from: [https://derangedphysiology.com/main/cicm-primary-exam/cardiovascular-system/Chapter-967/amiodarone](https://derangedphysiology.com/main/cicm-primary-exam/cardiovascular-system/Chapter-967/amiodarone)
 

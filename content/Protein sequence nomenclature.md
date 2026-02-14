@@ -3,9 +3,9 @@ tags:
   - medicine
   - incomplete
 created: 2025-11-18
-modified: 2025-11-18
+modified: 2025-11-21
 ---
-Protein sequence alterations or substitutions can be describes in standardised notation. The nomenclature herein is that published by the HGVS Variant Nomenclature Committee. A sequence should begin with a prefix to denote its type (DNA, RNA, protein).
+Protein sequence alterations or substitutions can be described in standardised notation. The nomenclature herein is that published by the HGVS Variant Nomenclature Committee. A sequence should begin with a prefix to denote its type (DNA, RNA, protein).
 
 # Describing variations
 

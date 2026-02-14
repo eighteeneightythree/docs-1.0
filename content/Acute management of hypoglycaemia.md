@@ -2,7 +2,7 @@
 tags:
   - medicine
 created: 2025-11-10
-modified: 2025-11-11
+modified: 2026-02-08
 ---
 Blood glucose below 4.0mmol/L is generally considered hypoglycaemia. In a non-diabetic patient, symptoms are often not present until closer to 2.5mmol/L. In somebody unwell (or in diabetics or the frail), treatment is reasonable for levels that are truly at or below 4.0mmol/L; those with normal physiology can tolerate mild hypoglycaemia (provided the aetiology is benign and the situation is not going to get worse).
 
@@ -41,7 +41,7 @@ If you can't squirt sugar in the mouth and IV access is unavailable, 1mg of intr
 
 If you give D50 peripherally, keep an eye on the IV line. Maybe put in another.
 
-If three doses of glucose (oral or IV) don't push the blood glucose into an acceptable range, start and infusion (D10 at 100mL/hr) and ask for somebody with a bigger paycheck (perhaps the medical registrar). 
+If three doses of glucose (oral or IV) don't push the blood glucose into an acceptable range, start an infusion (D10 at 100mL/hr) and ask for somebody with a bigger paycheck (perhaps the medical registrar). 
 
 # Once you have fixed the problem...
 Think about giving the patient a snack or some complex carbohydrate (banana, bread, fruit).

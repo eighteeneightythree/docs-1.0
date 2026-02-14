@@ -1,7 +1,7 @@
 ---
 tags:
   - medicine
-modified: 2025-11-04
+modified: 2026-01-20
 created: 2025-08-06
 ---
 Routine analgesia is typically simple analgesia with the addition of opiate analgesia as required. Most analgesic regimens are built on the "pain ladder". The below are doses for standard immediate release formulation[^1].
@@ -31,7 +31,9 @@ Opiate analgesia requires different dosing based on route.
 
 ## Codeine
 >[!none]- 30-60mg *quaque 4 hora* as required, max 240mg in 24 hours
->Sometimes 15mg is good enough
+>Sometimes 15mg is good enough…
+>
+>And, I have it on good authority that 15-30mg QID for 5 days is a reasonable discharge prescription.
 
 # Strong opioids
 
